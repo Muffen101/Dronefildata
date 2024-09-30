@@ -1,0 +1,14 @@
+C:\Users\Steffan\OneDrive - Grindsted Gymnasie- & Erhvervsskole\2.g HTX\Programmering\Programmering-1st-day\Bente's drone fil\Bente's drone fil\bin\Debug\net6.0\Bente's drone fil.exe
+C:\Users\Steffan\OneDrive - Grindsted Gymnasie- & Erhvervsskole\2.g HTX\Programmering\Programmering-1st-day\Bente's drone fil\Bente's drone fil\bin\Debug\net6.0\Bente's drone fil.deps.json
+C:\Users\Steffan\OneDrive - Grindsted Gymnasie- & Erhvervsskole\2.g HTX\Programmering\Programmering-1st-day\Bente's drone fil\Bente's drone fil\bin\Debug\net6.0\Bente's drone fil.runtimeconfig.json
+C:\Users\Steffan\OneDrive - Grindsted Gymnasie- & Erhvervsskole\2.g HTX\Programmering\Programmering-1st-day\Bente's drone fil\Bente's drone fil\bin\Debug\net6.0\Bente's drone fil.dll
+C:\Users\Steffan\OneDrive - Grindsted Gymnasie- & Erhvervsskole\2.g HTX\Programmering\Programmering-1st-day\Bente's drone fil\Bente's drone fil\bin\Debug\net6.0\Bente's drone fil.pdb
+C:\Users\Steffan\OneDrive - Grindsted Gymnasie- & Erhvervsskole\2.g HTX\Programmering\Programmering-1st-day\Bente's drone fil\Bente's drone fil\obj\Debug\net6.0\Bente's drone fil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steffan\OneDrive - Grindsted Gymnasie- & Erhvervsskole\2.g HTX\Programmering\Programmering-1st-day\Bente's drone fil\Bente's drone fil\obj\Debug\net6.0\Bente's drone fil.AssemblyInfoInputs.cache
+C:\Users\Steffan\OneDrive - Grindsted Gymnasie- & Erhvervsskole\2.g HTX\Programmering\Programmering-1st-day\Bente's drone fil\Bente's drone fil\obj\Debug\net6.0\Bente's drone fil.AssemblyInfo.cs
+C:\Users\Steffan\OneDrive - Grindsted Gymnasie- & Erhvervsskole\2.g HTX\Programmering\Programmering-1st-day\Bente's drone fil\Bente's drone fil\obj\Debug\net6.0\Bente's drone fil.csproj.CoreCompileInputs.cache
+C:\Users\Steffan\OneDrive - Grindsted Gymnasie- & Erhvervsskole\2.g HTX\Programmering\Programmering-1st-day\Bente's drone fil\Bente's drone fil\obj\Debug\net6.0\Bente's drone fil.dll
+C:\Users\Steffan\OneDrive - Grindsted Gymnasie- & Erhvervsskole\2.g HTX\Programmering\Programmering-1st-day\Bente's drone fil\Bente's drone fil\obj\Debug\net6.0\refint\Bente's drone fil.dll
+C:\Users\Steffan\OneDrive - Grindsted Gymnasie- & Erhvervsskole\2.g HTX\Programmering\Programmering-1st-day\Bente's drone fil\Bente's drone fil\obj\Debug\net6.0\Bente's drone fil.pdb
+C:\Users\Steffan\OneDrive - Grindsted Gymnasie- & Erhvervsskole\2.g HTX\Programmering\Programmering-1st-day\Bente's drone fil\Bente's drone fil\obj\Debug\net6.0\Bente's drone fil.genruntimeconfig.cache
+C:\Users\Steffan\OneDrive - Grindsted Gymnasie- & Erhvervsskole\2.g HTX\Programmering\Programmering-1st-day\Bente's drone fil\Bente's drone fil\obj\Debug\net6.0\ref\Bente's drone fil.dll
